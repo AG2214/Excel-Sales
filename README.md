@@ -5,20 +5,20 @@
 
 - **Project objective:** 
 
-    **1.** Create a [customer performance report](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+    **1.** Create a [customer performance report](https://github.com/AG2214/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
-    **2.** Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+    **2.** Conduct a comprehensive comparison between [market performance and sales targets](https://github.com/AG2214/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
   
-   **3.** Create the [top 10 products](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Top_10_products.pdf) based on the percentage increase in their net sales
+   **3.** Create the [top 10 products](https://github.com/AG2214/Excel-Sales-Analytics/blob/main/Top_10_products.pdf) based on the percentage increase in their net sales
   
-   **4.** Products are ranked in the [top 5 and bottom 5](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Top_bottom_5_products.pdf)
+   **4.** Products are ranked in the [top 5 and bottom 5](https://github.com/AG2214/Excel-Sales-Analytics/blob/main/Top_bottom_5_products.pdf)
    in terms of quantity sold
   
-   **5.** The [new products](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/New_products.pdf) that AtliQ began selling in 2021
+   **5.** The [new products](https://github.com/AG2214/Excel-Sales-Analytics/blob/main/New_products.pdf) that AtliQ began selling in 2021
 
-   **6.** [The top 5 countries](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Top_5_countries.pdf) in terms of net sales in 2021
+   **6.** [The top 5 countries](https://github.com/AG2214/Excel-Sales-Analytics/blob/main/Top_5_countries.pdf) in terms of net sales in 2021
 
-   **7.** Generate a [**Division** report](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/Divison_level_report.pdf) to present the net sales data for 2020 and 2021, along with the growth percentage
+   **7.** Generate a [**Division** report](https://github.com/AG2214/Excel-Sales-Analytics/blob/main/Divison_level_report.pdf) to present the net sales data for 2020 and 2021, along with the growth percentage
   
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -31,9 +31,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AG2214/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/BoniBoban/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/AG2214/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
